@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pronoym99@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.overleaf.com/read/vvbgjbjkctwz)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14kVjsSYfLGMTea9Gkonb13cndsh69X1U/view?usp=sharing)
 
 - ⚡ Fun fact **I have a lot to learn!!**
 
