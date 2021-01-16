@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/pronoy-mandal" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="pronoy-mandal" height="30" width="40" /></a>
 <a href="https://fb.com/pronoy.mandal.50" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="pronoy.mandal.50" height="30" width="40" /></a>
 <a href="https://instagram.com/pronoym99" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="pronoym99" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pronoym99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pronoym99" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pronoym99" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="pronoym99" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lukex9442" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="lukex9442" height="30" width="40" /></a>
 </p>
 
