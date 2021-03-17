@@ -11,10 +11,9 @@
 
 - 📫 How to reach me **pronoym99@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1R3sRehB560m9W61lmrE8Wjh-M69R581W/view?usp=sharing
-)
+- 📄 Know about my experiences [Resume](https://tinyurl.com/f6bx4sxz)
 
-- ⚡ Fun fact **I have a lot to learn!!**
+- ⚡ Fun fact **I still have a lot to learn!!**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
