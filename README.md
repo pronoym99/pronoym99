@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pronoy Mandal</h1>
+<h1 align="center">Hi 👋, I'm Pronoy</h1>
 <h3 align="center">A coding enthusiast from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pronoym99&theme=onedark&margin-w=15&margin-h=15" alt="pronoym99" /></a> </p>
