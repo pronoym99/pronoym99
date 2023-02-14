@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pronoym99@gmail.com**
 
-- 📄 Know about my experiences [Resume](shorturl.at/fjFPY)
+- 📄 Know about my experiences [Resume](https://www.shorturl.at/fjFPY)
 
 - ⚡ Fun fact **I still have a lot to learn!!**
 
