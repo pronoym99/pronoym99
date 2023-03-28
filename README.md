@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pronoym99@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.shorturl.at/fjFPY)
+- 📄 Know about my experiences [Resume](https://pronoym99.github.io/autocv-maker/cv.pdf)
 
 - ⚡ Fun fact **I still have a lot to learn!!**
 
