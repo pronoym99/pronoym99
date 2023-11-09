@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pronoy</h1>
-<h3 align="center">A coding enthusiast from India</h3>
+<h3 align="center">A data scientist from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pronoym99&theme=onedark&margin-w=15&margin-h=15" alt="pronoym99" /></a> </p>
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **R**
 
 - 👯 I’m looking to collaborate on [CGPA-Calculator](https://github.com/pronoym99/CGPA-Calculator)
 
