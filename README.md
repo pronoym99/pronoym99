@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=pronoym99&theme=onedark&margin-w=15&margin-h=15" alt="pronoym99" /></a> </p>
 
-- 🌱 I’m currently learning **R**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on [CGPA-Calculator](https://github.com/pronoym99/CGPA-Calculator)
 
